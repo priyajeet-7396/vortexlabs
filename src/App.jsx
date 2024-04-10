@@ -7,6 +7,10 @@ const App = () => {
       <Header/>
     </div>
     <ButtonGradient/>
+             <div className="coming">
+      <h1 className="title">Coming soon.....</h1>
+  
+    </div>
       </>
   );
   }
