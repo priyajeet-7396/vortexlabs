@@ -86,3 +86,16 @@
 .-rotate-360 {
   @apply rotate-[-360deg];
 }
+
+
+.coming{
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+  font-size: 30px;
+
+}
